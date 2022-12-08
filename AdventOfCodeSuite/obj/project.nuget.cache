@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "tEOgyUG2+h1uY1OdOsh5bUr/0g2Y69zo2UwyTgD+6ReV9H9a5FlYhsKC7L344Lpo00mQGJN39kZ31ox6ZDvNxw==",
+  "dgSpecHash": "LgYpaHAdk644R1DLQ4v5ospn4E1L0+pBqkeU4XEp3QB0RFLmNxkpwK0exQEhJAyK0d4zDmO1NrQfSHOwNyqVdw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\S01761\\OneDrive - NewDay Cards Ltd\\Documents\\Kata\\AdventOfCodeSuite\\AdventOfCodeSuite\\AdventOfCodeSuite.csproj",
+  "projectFilePath": "C:\\repos\\AdventOfCode2022\\AdventOfCodeSuite\\AdventOfCodeSuite.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\S01761\\.nuget\\packages\\coverlet.collector\\3.1.2\\coverlet.collector.3.1.2.nupkg.sha512",
     "C:\\Users\\S01761\\.nuget\\packages\\microsoft.codecoverage\\17.1.0\\microsoft.codecoverage.17.1.0.nupkg.sha512",

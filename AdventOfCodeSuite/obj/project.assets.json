@@ -6114,11 +6114,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\S01761\\OneDrive - NewDay Cards Ltd\\Documents\\Kata\\AdventOfCodeSuite\\AdventOfCodeSuite\\AdventOfCodeSuite.csproj",
+      "projectUniqueName": "C:\\repos\\AdventOfCode2022\\AdventOfCodeSuite\\AdventOfCodeSuite.csproj",
       "projectName": "AdventOfCodeSuite",
-      "projectPath": "C:\\Users\\S01761\\OneDrive - NewDay Cards Ltd\\Documents\\Kata\\AdventOfCodeSuite\\AdventOfCodeSuite\\AdventOfCodeSuite.csproj",
+      "projectPath": "C:\\repos\\AdventOfCode2022\\AdventOfCodeSuite\\AdventOfCodeSuite.csproj",
       "packagesPath": "C:\\Users\\S01761\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\S01761\\OneDrive - NewDay Cards Ltd\\Documents\\Kata\\AdventOfCodeSuite\\AdventOfCodeSuite\\obj\\",
+      "outputPath": "C:\\repos\\AdventOfCode2022\\AdventOfCodeSuite\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\S01761\\AppData\\Roaming\\NuGet\\NuGet.Config",
