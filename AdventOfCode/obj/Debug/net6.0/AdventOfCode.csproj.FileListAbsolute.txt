@@ -13,3 +13,18 @@ C:\Users\S01761\OneDrive - NewDay Cards Ltd\Documents\Kata\AdventOfCode\AdventOf
 C:\Users\S01761\OneDrive - NewDay Cards Ltd\Documents\Kata\AdventOfCode\AdventOfCode\obj\Debug\net6.0\AdventOfCode.pdb
 C:\Users\S01761\OneDrive - NewDay Cards Ltd\Documents\Kata\AdventOfCode\AdventOfCode\obj\Debug\net6.0\AdventOfCode.genruntimeconfig.cache
 C:\Users\S01761\OneDrive - NewDay Cards Ltd\Documents\Kata\AdventOfCode\AdventOfCode\obj\Debug\net6.0\ref\AdventOfCode.dll
+C:\repos\AdventOfCode2022\AdventOfCode\bin\Debug\net6.0\AdventOfCode.exe
+C:\repos\AdventOfCode2022\AdventOfCode\bin\Debug\net6.0\AdventOfCode.deps.json
+C:\repos\AdventOfCode2022\AdventOfCode\bin\Debug\net6.0\AdventOfCode.runtimeconfig.json
+C:\repos\AdventOfCode2022\AdventOfCode\bin\Debug\net6.0\AdventOfCode.dll
+C:\repos\AdventOfCode2022\AdventOfCode\bin\Debug\net6.0\AdventOfCode.pdb
+C:\repos\AdventOfCode2022\AdventOfCode\obj\Debug\net6.0\AdventOfCode.csproj.AssemblyReference.cache
+C:\repos\AdventOfCode2022\AdventOfCode\obj\Debug\net6.0\AdventOfCode.GeneratedMSBuildEditorConfig.editorconfig
+C:\repos\AdventOfCode2022\AdventOfCode\obj\Debug\net6.0\AdventOfCode.AssemblyInfoInputs.cache
+C:\repos\AdventOfCode2022\AdventOfCode\obj\Debug\net6.0\AdventOfCode.AssemblyInfo.cs
+C:\repos\AdventOfCode2022\AdventOfCode\obj\Debug\net6.0\AdventOfCode.csproj.CoreCompileInputs.cache
+C:\repos\AdventOfCode2022\AdventOfCode\obj\Debug\net6.0\AdventOfCode.dll
+C:\repos\AdventOfCode2022\AdventOfCode\obj\Debug\net6.0\refint\AdventOfCode.dll
+C:\repos\AdventOfCode2022\AdventOfCode\obj\Debug\net6.0\AdventOfCode.pdb
+C:\repos\AdventOfCode2022\AdventOfCode\obj\Debug\net6.0\AdventOfCode.genruntimeconfig.cache
+C:\repos\AdventOfCode2022\AdventOfCode\obj\Debug\net6.0\ref\AdventOfCode.dll

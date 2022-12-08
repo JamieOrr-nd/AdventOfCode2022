@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "oJ7AzsQb9SbF87mFe0Z4DI0sokxpI6QsoQkh/mt/VeUsucexaFFnwwxJ+FDGD1jCuOugHGcYYXEhYo6tK5BhIg==",
+  "dgSpecHash": "kA5bNaby4n120dKvL9c2QXkTAbDfFdeo8hJC8BYa0VHsDeDSa7sBlqQavCxoaHyeNgM2IQ9eZGIqWyY9DXdZFA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\S01761\\OneDrive - NewDay Cards Ltd\\Documents\\Kata\\AdventOfCode\\AdventOfCode\\AdventOfCode.csproj",
+  "projectFilePath": "C:\\repos\\AdventOfCode2022\\AdventOfCode\\AdventOfCode.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

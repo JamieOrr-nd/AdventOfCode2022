@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\S01761\\OneDrive - NewDay Cards Ltd\\Documents\\Kata\\AdventOfCode\\AdventOfCode\\AdventOfCode.csproj",
+      "projectUniqueName": "C:\\repos\\AdventOfCode2022\\AdventOfCode\\AdventOfCode.csproj",
       "projectName": "AdventOfCode",
-      "projectPath": "C:\\Users\\S01761\\OneDrive - NewDay Cards Ltd\\Documents\\Kata\\AdventOfCode\\AdventOfCode\\AdventOfCode.csproj",
+      "projectPath": "C:\\repos\\AdventOfCode2022\\AdventOfCode\\AdventOfCode.csproj",
       "packagesPath": "C:\\Users\\S01761\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\S01761\\OneDrive - NewDay Cards Ltd\\Documents\\Kata\\AdventOfCode\\AdventOfCode\\obj\\",
+      "outputPath": "C:\\repos\\AdventOfCode2022\\AdventOfCode\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\S01761\\AppData\\Roaming\\NuGet\\NuGet.Config",
